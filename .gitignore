@@ -1,0 +1,5 @@
+data/
+tesdal23_interim_data.tgz
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
