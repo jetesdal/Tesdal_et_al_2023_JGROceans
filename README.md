@@ -1,5 +1,5 @@
 # Tesdal_et_al_2023_JGROceans
-Processing, analysis, and plotting code for [Tesdal et al. (2023)](https://doi.org/10.1029/2022JC019105) published in Journal of Geophysical Research: Oceans
+Processing, analysis, and plotting code for [Tesdal et al. (2023)](https://doi.org/10.1029/2022JC019105) published in Journal of Geophysical Research: Oceans.
 
 This repository contains the code used to process and analyze the model output and plot the results presented in
 
